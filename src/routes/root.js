@@ -1,4 +1,4 @@
-import {useEffect} from 'react';
+/*import {useEffect} from 'react';
 export default function Root(){
     useEffect(...
         getDracaufeu()
@@ -16,4 +16,4 @@ const httpResponse = await fetch('');
 const dracaufeu =  await httpResponse.json();
 
 console.log('dracaufeu', dracaufeu)
-}
+}*/
